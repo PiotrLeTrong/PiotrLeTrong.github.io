@@ -1,0 +1,56 @@
+body {
+    background-color: #F5F5F5;
+}
+@font-face {
+    font-family: 'Lato'; /*a name to be used later*/
+    src: url('http://domain.com/fonts/font.ttf'); /*URL to font*/
+}
+h1 {
+	font-family: Lato;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 36px;
+}
+.topLine {
+	font-family: Lato;
+	font-size: 48px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 36px;
+}
+
+h3 {
+	font-family: Lato;
+	font-size: 17px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 23px;
+}
+p {
+	font-family: Lato;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 23px;
+}
+blockquote {
+	font-family: Lato;
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 23px;
+}
+pre {
+	font-family: Lato;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 23px;
+}
