@@ -8,6 +8,7 @@ body {
 div.wrap {
     width: 65%;
     margin-left: 7.5%;
+    display: inline-block;
 }
 .right{
     float:right;
@@ -72,6 +73,9 @@ pre {
     background-color: #003262;
     color: #FDB515;
     padding: 0px;
+    width: 90%;
+    margin-left: 1%;
+    margin-right: 1%;
     font-size: 16px;
     font-family: Lato;
 }
