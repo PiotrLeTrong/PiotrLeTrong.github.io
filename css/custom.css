@@ -2,8 +2,8 @@ body {
     background-color: #F5F5F5;
 }
 @font-face {
-    font-family: 'Lato'; /*a name to be used later*/
-    src: url('http://domain.com/fonts/font.ttf'); /*URL to font*/
+    font-family: 'Lato'; 
+    src: url('http://domain.com/fonts/font.ttf')  format('truetype'); 
 }
 div.wrap {
     width:1000px;
