@@ -6,8 +6,8 @@ body {
     src: url('http://domain.com/fonts/font.ttf')  format('truetype'); 
 }
 div.wrap {
-    width:1000px;
-    margin:0 auto;
+    width: 65%;
+    margin-left: 7.5%;
 }
 .right{
     float:right;
