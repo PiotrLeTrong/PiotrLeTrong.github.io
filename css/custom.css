@@ -2,14 +2,19 @@ body {
     background-color: #F5F5F5;
 }
 @font-face {
-    font-family: 'Lato'; 
+    font-family: 'Lato', sans-serif;
     src: url('http://domain.com/fonts/font.ttf')  format('truetype'); 
 }
 div.wrap {
-    width: 65%;
+    width: 80%;
     margin-left: 7.5%;
     display: inline-block;
 }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
 .right{
     float:right;
 }
@@ -51,6 +56,13 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 23px;
+}
+td {
+	font-family: Lato;
+	font-size: 14px;
+    text-align: left;
+    padding: 8px;
+    border-left: 1px solid #ddd;
 }
 blockquote {
 	font-family: Lato;
