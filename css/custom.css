@@ -7,8 +7,16 @@ body {
 }
 div.wrap {
     width: 80%;
-    margin-left: 7.5%;
+    margin-left: 2em;
     display: inline-block;
+}
+div.wrapAbout {
+    margin-left: 2em;
+}
+img {
+    margin-left: 2em;
+    padding-right: 20px;
+    padding-top: 20px;
 }
 table {
     border-collapse: collapse;
@@ -49,6 +57,7 @@ h3 {
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 10px;
+    margin: 8px;
 }
 p {
 	font-family: Lato;
@@ -87,7 +96,7 @@ pre {
     color: #FDB515;
     padding: 0px;
     width: 90%;
-    margin-left: 1%;
+    margin-left: 2em;
     margin-right: 1%;
     font-size: 16px;
     font-family: Lato;
