@@ -43,7 +43,7 @@ h1 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: bold;
-	line-height: 24px;
+	line-height: 30px;
 }
 .topLine {
 	font-family: Lato;
@@ -51,7 +51,7 @@ h1 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: bold;
-	line-height: 24px;
+	line-height: 10px;
 }
 
 h3 {
@@ -60,7 +60,7 @@ h3 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: bold;
-	line-height: 10px;
+	line-height: 20px;
     margin: 8px;
 }
 p {
