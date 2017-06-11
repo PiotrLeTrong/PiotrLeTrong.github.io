@@ -18,6 +18,10 @@ img {
     padding-right: 20px;
     padding-top: 20px;
 }
+table.resume {
+    border-collapse: collapse;
+    width: 100%;
+}
 table {
     border-collapse: collapse;
     width: 100%;
